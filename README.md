@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ebrahim
+- 👋 Hi, I’m @Ebrahim Shefawe
 - 👀 I’m interested in Electronics Specially Computer Related Topics
 - 🌱 I’m currently learning at Microlink Information Technology College Addis Ababa Ethiopia
 - 💞️ I’m looking to collaborate on Payment and Secure Transaction

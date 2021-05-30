@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ebrahim
 - 👀 I’m interested in Electronics Specially Computer Related Topics
-- 🌱 I’m currently learning Microlink Information Technology College
+- 🌱 I’m currently learning at Microlink Information Technology College Addis Ababa Ethiopia
 - 💞️ I’m looking to collaborate on Payment and Secure Transaction
 - 📫 How to reach me @basssha ---> telegram
 
